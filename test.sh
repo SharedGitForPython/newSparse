@@ -1,0 +1,1 @@
+sh scripts/SparseTSF/linear/wind_power.sh;
